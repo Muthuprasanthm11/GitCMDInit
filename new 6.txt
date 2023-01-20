@@ -1,0 +1,11 @@
+Interview preparation topics
+1.Git commands and Jenkins
+2.Java theory and syntax
+3.Manual testing and API testing 
+4.Selenium theory and syntax
+5.TestNG annotations
+6.About yourself, Project/Framework explanation, Roles and responsibilities
+7.Cucumber (optional)
+8.Java programs 
+9.Maven,POM, data driven, base class 
+10. Interview questions preparation and mock interview
